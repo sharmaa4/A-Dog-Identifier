@@ -8,3 +8,4 @@ scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
 nbconvert<7,>=6.0.0
+voila
