@@ -7,3 +7,4 @@ scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
 voila
+tornado>=6.1.0
